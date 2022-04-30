@@ -2,4 +2,5 @@ canvas{
     border-width:2px;
     border-style:dotted;
     background-color: pink;
+    border-radius: 20px;
   }
